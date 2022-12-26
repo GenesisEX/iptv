@@ -43,4 +43,7 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News National
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
+#EXTINF:-1 tvg-id="BloombergTV.us" status="online",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="CNN.us" status="online",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
