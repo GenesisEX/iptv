@@ -23,3 +23,17 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" status="online",CCTV-15
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" status="online",北京卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="DragonTV.cn" status="online",东方卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn" status="online",湖南卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" status="online",江苏卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" status="online",浙江卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="ShandongTV.cn" status="online",山东卫视
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/sdwshd/2300000/mnf.m3u8
