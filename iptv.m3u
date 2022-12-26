@@ -5,3 +5,21 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mn
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3
 http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" status="online",CCTV-4
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" status="online",CCTV-7
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" status="online",CCTV-8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" status="online",CCTV-10
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn" status="online",CCTV-11
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" status="online",CCTV-12
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
