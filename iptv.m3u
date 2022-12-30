@@ -51,3 +51,5 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="General",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French (720p)
+http://81.94.196.204/tsstreamer/France24_HD.ts
