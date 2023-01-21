@@ -1,4 +1,50 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-1H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" status="online",CCTV-2
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-2H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-3H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" status="online",CCTV-4
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-4H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-5H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-6H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" status="online",CCTV-7
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-7H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" status="online",CCTV-8
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-8H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" status="online",CCTV-9
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-9H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" status="online",CCTV-10
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-10H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV11.cn" status="online",CCTV-11
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-11H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV12.cn" status="online",CCTV-12
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-12H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" status="online",CCTV-13
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-13H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" status="online",CCTV-14
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-14H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" status="online",CCTV-15
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-15H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" status="online",CCTV-16
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-16H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="CCTV15.cn" status="online",CCTV-17
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-17H265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" status="online",北京卫视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1674261097&sign=eb9e3c4bef70e604866562f0c9744949
+#EXTINF:-1 tvg-id="DragonTV.cn" status="online",东方卫视
+http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,dfwsH265_hls_pull_4000K_live.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn" status="online",湖南卫视
+http://121.51.249.30/livehkkp.chinamcache.com/live/hnwsH265.m3u8
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" status="online",江苏卫视
+http://121.51.249.30/livehkkp.chinamcache.com/live/jswsH265.m3u8
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" status="online",浙江卫视
+http://121.51.249.30/livehkkp.chinamcache.com/live/zjwsH265.m3u8
+#EXTINF:-1 tvg-id="ShandongTV.cn" status="online",山东卫视
+http://121.51.249.30/livehkkp.chinamcache.com/live/sdwsH265.m3u8
 #EXTINF:-1 tvg-id="" status="online",凤凰中文
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-id="" status="online",凤凰资讯
