@@ -37,6 +37,8 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVUDT1.us",FOX 2 San Francisco CA (KTVU) (720p)
+https://lnc-ktvu.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="WABCDT1.us",ABC News New York NY (WABC-TV) (720p)
