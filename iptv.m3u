@@ -35,6 +35,8 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us",BBC America East (1080p)
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="WKPCDT2.us",PBS KET2 (720p)
