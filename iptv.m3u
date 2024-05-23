@@ -35,6 +35,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="GeniusGoGoGo.tw",天才衝衝衝 (1080p)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-id="KBSJoy.kr",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSStory.kr",KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News National
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="KIRODT1.us",CBS 7 Seattle WA (KIRO) (720p)
