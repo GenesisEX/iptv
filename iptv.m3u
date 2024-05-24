@@ -43,6 +43,8 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News National
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="KIRODT1.us",CBS 7 Seattle WA (KIRO) (720p)
