@@ -45,6 +45,8 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="SportenFrance.fr",Sport En France (1080p)
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us",Fubo Sports Network (1080p) [Geo-blocked]
+https://lnc-fubo.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="Timeline.us",Timeline (1080p)
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk",Wonder (1080p)
