@@ -139,5 +139,10 @@ https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/62458
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="Movies",HBO 1
+#EXTVLCOPT:http-referrer=https://tv247.us
+https://live.tv247us.com/tv247/hbo.m3u8
+#EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO (1080p) [Geo-blocked]
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
 
