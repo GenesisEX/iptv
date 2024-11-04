@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1.cn" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV2.cn" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" group-title="China",CCTV-2 财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" group-title="China",CCTV-4 中文国际（亚） Ⓨ
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+#EXTINF:-1 tvg-name="CCTV4America.cn" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" group-title="China",CCTV-4 中文国际（美） Ⓢ
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-name="CCTV5.cn" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="CCTV5.cn" group-title="China",CCTV-5 体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV5Plus.cn" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="CCTV5Plus.cn" group-title="China",CCTV-5+ 体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV7.cn" tvg-logo="https://i.imgur.com/GhXlUpM.png" tvg-id="CCTV7.cn" group-title="China",CCTV-7 国防军事
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV8.cn" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="CCTV8.cn" group-title="China",CCTV-8 电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV9.cn" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-id="CCTV9.cn" group-title="China",CCTV-9 纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV10.cn" tvg-logo="https://i.imgur.com/W8JNs1s.png" tvg-id="CCTV10.cn" group-title="China",CCTV-10 科教
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV13.cn" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="China",CCTV-13 新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV17.cn" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" group-title="China",CCTV-17 农业农村
+https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk",凤凰资讯 (720p)
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.tw",Global News (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw",Taiwan Plus TV (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="CTiNews.tw",中天新聞台 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="GeniusGoGoGo.tw",天才衝衝衝 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-id="KBSJoy.kr",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSStory.kr",KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBSWorld.kr",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="Timeline.us",Timeline (1080p)
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk",Wonder (1080p)
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" status="online",CBS News National
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="KIRODT1.us",CBS 7 Seattle WA (KIRO) (720p)
+https://lnc-kiro.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" status="online",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="KTVUDT1.us",FOX 2 San Francisco CA (KTVU) (720p)
+https://lnc-ktvu.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="WABCDT1.us",ABC News New York NY (WABC-TV) (720p)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="",Pluto TV NBC News NOW (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="NBCLX.us",NBCLX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk",BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+#EXTINF:-1 tvg-id="WKPCDT2.us",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 tvg-id="WKPCDT3.us",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT1.us",PBS KET Louisville KY (WKMJ-TV) (720p)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="WKMJDT3.us",PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us",PBS Kids Eastern/Central (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT1.us",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="WMPTDT2.us",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="KGTFDT1.us",KGTF-DT1 (PBS Guam)
+https://ythls.armelin.one/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Science",Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBOTDT.ca",CBC Ottawa (CBOT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 tvg-id="CHCOTV.ca",CHCO-TV (720p) [Geo-blocked]
+https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 tvg-id="",CityNews (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1 tvg-id="LCN.ca",LCN [Geo-blocked]
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="CFTMDT.ca",TVA [Geo-blocked]
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 tvg-id="Noovo.ca",Noovo [Not 24/7]
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="News",ICI RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="General",Télé-Québec (720p)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr",France 24 English (1080p)
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimauxFrance.fr" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Travel",Pluto TV Animaux (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
+#EXTINF:-1 tvg-id="BBCDramaFrance.fr" tvg-logo="https://i.imgur.com/EQZPSZx.png" group-title="Series",BBC Drama
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/1HjRwpC.png" group-title="Music",Ivoire Channel (720p)
+https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineFrance.fr" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" group-title="Movies",Pluto TV Ciné (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CineSony.us",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPitchoun.fr" tvg-logo="https://proxymedia.woopic.com/api/v1/images/553%2Flogos%2Fv2%2Flogos%2Flivetv_pitchountv%2F20180206_091500%2FwebTVLogo%2Flogo_180x96.png" group-title="Undefined",TV Pitchoun (1080p)
+https://live.tvradio-pitchoun.fr/hls/live.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us",AMC East (1080p)
+https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCPlus.us",AMC+ (1080p)
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 tvg-id="Crackle.us",Crackle (720p)
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us",Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO1.ca" tvg-logo="https://i.imgur.com/2pD6eN6.png" group-title="Movies",HBO 1
+#EXTVLCOPT:http-referrer=https://tv247.us
+https://live.tv247us.com/tv247/hbo.m3u8
+#EXTINF:-1 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO (1080p) [Geo-blocked]
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
+http://170.254.18.106/AMC/mono.m3u8
