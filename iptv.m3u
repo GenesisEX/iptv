@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ZheJiang International",ZheJiang International (1080p)
+https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="Zhejiang ShaoEr",Zhejiang ShaoEr
+https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV4America.cn" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" group-title="China",CCTV-4
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn",CCTV+ 1 (600p) [Not 24/7]
