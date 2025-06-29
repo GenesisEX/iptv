@@ -25,6 +25,14 @@ http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="ZheJiang" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="China",ZheJiang
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="HongKong" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="China",HongKong
+https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
+#EXTINF:-1 tvg-name="GanSu" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="China",GanSu
+http://goo.bkpcp.top/mg/gsws
+#EXTINF:-1 tvg-name="HeNan" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="China",HeNan
+http://1.94.31.214/php/hntv.php?id=hnws
+#EXTINF:-1 tvg-name="XinJiang" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="China",XinJiang
+http://goo.bkpcp.top/mg/xjws
 #EXTINF:-1 tvg-id="ZheJiang International",ZheJiang International (1080p)
 https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="Zhejiang ShaoEr",Zhejiang ShaoEr
