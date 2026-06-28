@@ -11,8 +11,7 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
 #EXTINF:-1 tvg-id="AlkassTwo.qa@SD" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two (1080p)
 https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/
-images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="Sports",Unite8 Sports 2 HD (1080p)
+#EXTINF:-1 tvg-id="Unite8Sports2.in@HD" tvg-logo="" group-title="Sports",Unite8 Sports 2 HD (1080p)
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-name="ZheJiang" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="China",ZheJiang
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
